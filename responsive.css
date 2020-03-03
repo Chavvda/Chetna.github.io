@@ -1,0 +1,54 @@
+@media only screen and (max-width: 900px) {
+
+.bodycontainer {
+      display: grid;
+      grid-template-columns: 5% 90% 5%;
+
+  }
+
+
+
+}
+
+@media only screen and (max-width: 700px) {
+
+  .introproj {
+  margin: 5%;
+  width: 86%;
+  padding: 2%;
+
+
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 1fr 1fr;
+
+}
+
+
+.title {
+  grid-row:1;
+  grid-column:1;
+}
+
+.infonow {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row:2;
+  margin-top: 0%;
+}
+
+.tools {
+  padding-left:0;
+  padding-right:10%;
+  width: 70%;
+}
+
+.toolsrow2 {
+margin-left: 50px;
+}
+
+.tools p{
+  font-size:14px;
+}
+
+}
