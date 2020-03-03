@@ -225,7 +225,7 @@ grid-template-columns: 30% 70%;
 .meimg {
   background-repeat: no-repeat;
   background-size:contain;
-  background-image: url("me.svg");
+  background-image: url("me");
   padding:40%;
 }
 
