@@ -469,3 +469,11 @@ background-image: url("camp.png");
   background-image: url("tech.png");
   padding:30%;
 }
+
+.wireframes {
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-image: url("wireframe.jpg");
+  padding:30%;
+  margin-bottom: 20%;
+}
