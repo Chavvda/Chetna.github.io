@@ -108,26 +108,15 @@ font-family: 'Source Sans Pro', sans-serif;
   margin-left:20px;
 }
 
-.linkedin1 {
+.insta {
   float:left;
   background-size:contain;
   background-repeat:no-repeat;
-  background-image:url("logolink.png");
-  height: 40px;
-  width:40px;
-  margin-top:15px;
-  margin-left:500px;
-}
-
-.email1 {
-  float:left;
-  background-size:contain;
-  background-repeat:no-repeat;
-  background-image:url("email.png");
-  height: 50px;
-  width:50px;
-  margin-top:110px;
-  margin-left:500px;
+  background-image:url("insta.png");
+  height: 48px;
+  width:48px;
+  margin-top:12px;
+  margin-left:15px;
 }
 
 
