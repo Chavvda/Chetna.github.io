@@ -320,9 +320,9 @@ grid-template-columns: 30% 70%;
 
 .text1 {
   float: left;
-  width: 450px;
+  width: 80%;
   margin-top: 0px;
-  margin-left: 100px;
+  margin-left: 20%;
 }
 
 .constyle {
